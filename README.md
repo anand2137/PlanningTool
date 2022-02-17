@@ -7,4 +7,4 @@ npm start
 
 # Architecture
 
-![Blank diagram](https://user-images.githubusercontent.com/47667570/154400474-0056d91a-63ea-4021-998b-f8a9ec8530f1.jpeg)
+![Blank diagram (1)](https://user-images.githubusercontent.com/47667570/154400650-3f8ce803-470c-495b-9ea6-df862bc8a8da.jpeg)
